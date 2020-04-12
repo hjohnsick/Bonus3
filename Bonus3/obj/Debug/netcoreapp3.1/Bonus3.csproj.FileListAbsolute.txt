@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\bin\Debug\netcoreapp3.1\Bonus3.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Bonus3\Bonus3\obj\Debug\netcoreapp3.1\Bonus3.pdb
